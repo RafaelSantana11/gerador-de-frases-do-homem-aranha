@@ -18,10 +18,5 @@ python3 app.py
 
 ```
 
-# Rodando com Docker
-```sh
-$ docker build -t .
-```
-
 # License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
