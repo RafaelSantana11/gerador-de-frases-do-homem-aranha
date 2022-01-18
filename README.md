@@ -1,5 +1,5 @@
 # Gerador de frases do Homem Aranha
-Projeto desenvolvido durante o curso de "Introdução ao React Hooks" da DIO, dentro do bootcamp Inter Frontend Developer. Uma aplicação simples que gera frases do Homem Aranha, feita em React, que consome uma API que fornce as frases feita em python. Inspirado no projeto de Celso Henrique - Naruto Quotes.
+Projeto desenvolvido durante o curso de "Introdução ao React Hooks" da DIO, dentro do bootcamp Inter Frontend Developer. Uma aplicação simples que gera frases do Homem Aranha, feita em React, que consome uma API que fornece as frases feita em python. Inspirado no projeto de Celso Henrique - Naruto Quotes.
 
 ![screenshot](frontend/screenshot.png?raw=true "screenshot")
 
